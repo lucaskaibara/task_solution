@@ -1,0 +1,116 @@
+﻿@model TaskSolution.Models.tarefa
+
+@{
+    ViewBag.Title = "Editar Tarefa";
+}
+
+@section cards{
+    <div class="header pb-8 pt-5 pt-lg-8 d-flex align-items-center" style="min-height: 200px; background-image: url(/Images/bg01.jpg); background-size: cover; background-position: center top;">
+        <!-- Mask -->
+        <span class="mask bg-gradient-primary opacity-8"></span>
+        <!-- Header container -->
+    </div>
+}
+
+<div class="col-xl order-xl-1">
+    <div class="card bg-secondary shadow">
+        <div class="card-header bg-white border-0">
+            <div class="row align-items-center">
+                <div class="col-8">
+                    <h3 class="mb-0 text-uppercase">
+                        Adicionar Nova Tarefa
+                    </h3>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Editar", "Tarefa", FormMethod.Post, new { id = "formEditarTarefa" }))
+            {
+                @Html.AntiForgeryToken()
+                @Html.HiddenFor(model => model.id)
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label class="form-control-label">Nome <strong class="text-red">*</strong></label>
+                                @Html.EditorFor(model => model.nome, new { htmlAttributes = new { @class = "form-control form-control-alternative", placeholder = "Digite o nome" } })
+                                @Html.ValidationMessageFor(model => model.nome, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label class="form-control-label">Descrição <strong class="text-red">*</strong></label>
+                                @Html.TextAreaFor(model => model.descricao, new { @class = "form-control form-control-alternative", placeholder = "Digite o nome" })
+                                @Html.ValidationMessageFor(model => model.nome, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <input type="hidden" id="cancelado" name="cancelado" value="N" />
+
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-control-label">Categoria <strong class="text-red">*</strong></label>
+                                @Html.DropDownList("categoria_id", null, "Escolha uma opção", htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.categoria_id, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-control-label">Usuário <strong class="text-red">*</strong></label>
+                                @Html.DropDownList("usuario_id", null, "Escolha uma opção", htmlAttributes: new { @class = "form-control" })
+                                @Html.ValidationMessageFor(model => model.usuario_id, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-control-label">Tarefa Pai <strong class="text-red">*</strong></label>
+                                @Html.DropDownList("tarefa_id", null, "Escolha uma opção", htmlAttributes: new { @class = "form-control" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-control-label">Estado (Situação) <strong class="text-red">*</strong></label>
+                                @Html.DropDownList("estado", new List<SelectListItem>
+                                {
+                                   new SelectListItem{ Text="Definido", Value = "D" },
+                                   new SelectListItem{ Text="Em Andamento", Value = "E" },
+                                   new SelectListItem{ Text="Completado", Value = "C" }
+                                }, null, htmlAttributes: new { @class = "form-control" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-control-label">Horas gastas <strong class="text-red">*</strong></label>
+                                @Html.EditorFor(model => model.horas_realizadas, new { htmlAttributes = new { @class = "form-control form-control-alternative", placeholder = "Digite o número de horas gastas", type = "number" } })
+                                @Html.ValidationMessageFor(model => model.horas_realizadas, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-control-label">Estimativa para conclusão (em horas) <strong class="text-red">*</strong></label>
+                                @Html.EditorFor(model => model.horas_estimadas, new { htmlAttributes = new { @class = "form-control form-control-alternative", placeholder = "Digite a estimativa (em horas)", type = "number" } })
+                                @Html.ValidationMessageFor(model => model.horas_estimadas, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <button type="submit" class="btn btn-outline-default"><i class="fa fa-sync"></i> Editar</button>
+                            <a href="/Tarefa" class="btn btn-outline-default"><i class="fa fa-arrow-left"></i> Voltar</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

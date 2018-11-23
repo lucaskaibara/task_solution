@@ -1,0 +1,89 @@
+﻿@model TaskSolution.Models.usuario
+
+@{
+    ViewBag.Title = "Editar Usuário";
+}
+
+@section cards{
+    <div class="header pb-8 pt-5 pt-lg-8 d-flex align-items-center" style="min-height: 200px; background-image: url(/Images/bg01.jpg); background-size: cover; background-position: center top;">
+        <!-- Mask -->
+        <span class="mask bg-gradient-primary opacity-8"></span>
+        <!-- Header container -->
+    </div>
+}
+
+<div class="col-xl order-xl-1">
+    <div class="card bg-secondary shadow">
+        <div class="card-header bg-white border-0">
+            <div class="row align-items-center">
+                <div class="col-8">
+                    <h3 class="mb-0 text-uppercase">
+                        Editar Usuário
+                    </h3>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("Editar", "Usuario", FormMethod.Post, new { id = "formAddCategoria" }))
+            {
+                @Html.AntiForgeryToken()
+                @Html.HiddenFor(model => model.id)
+
+                <div class="form-horizontal">
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <label class="form-control-label">Nome <strong class="text-red">*</strong></label>
+                                @Html.EditorFor(model => model.nome_completo, new { htmlAttributes = new { @class = "form-control form-control-alternative", placeholder = "Digite o nome" } })
+                                @Html.ValidationMessageFor(model => model.nome_completo, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label class="form-control-label">Data de Nascimento <strong class="text-red">*</strong></label>
+                                @Html.EditorFor(model => model.data_nascimento, new { htmlAttributes = new { @class = "form-control form-control-alternative", type = "date" } })
+                                @Html.ValidationMessageFor(model => model.data_nascimento, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-8">
+                            <div class="form-group">
+                                <label class="form-control-label">Email <strong class="text-red">*</strong></label>
+                                @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control form-control-alternative", placeholder = "Digite o email" } })
+                                @Html.ValidationMessageFor(model => model.email, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-control-label">Login <strong class="text-red">*</strong></label>
+                                @Html.EditorFor(model => model.login, new { htmlAttributes = new { @class = "form-control form-control-alternative", placeholder = "Digite o login" } })
+                                @Html.ValidationMessageFor(model => model.login, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="form-control-label">Senha <strong class="text-red">*</strong></label>
+                                @Html.EditorFor(model => model.senha, new { htmlAttributes = new { @class = "form-control form-control-alternative", placeholder = "Digite a senha", type = "password" } })
+                                @Html.ValidationMessageFor(model => model.senha, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        <input type="hidden" id="cancelado" name="cancelado" value="N" />
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <button type="submit" class="btn btn-outline-default"><i class="fa fa-sync"></i> Editar</button>
+                            <a href="/Usuario" class="btn btn-outline-default"><i class="fa fa-arrow-left"></i> Voltar</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

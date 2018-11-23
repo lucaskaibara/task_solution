@@ -1,0 +1,565 @@
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\ApplicationInsights.config
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\TaskSolution.dll.config
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\TaskSolution.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\TaskSolution.pdb
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\csc.exe
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\csc.exe.config
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\csc.rsp
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\csi.exe
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\csi.exe.config
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\csi.rsp
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.AppContext.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Console.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\vbc.exe
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\vbc.exe.config
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\vbc.rsp
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Antlr3.Runtime.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\EntityFramework.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Google.Protobuf.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.Web.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySql.Data.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySql.Data.EntityFramework.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySql.Web.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Newtonsoft.Json.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.Helpers.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.Mvc.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.Optimization.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.Razor.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.WebPages.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\WebGrease.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\EntityFramework.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySql.Data.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySql.Data.EntityFramework.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\MySql.Web.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.Helpers.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.Mvc.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.Optimization.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.Razor.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.WebPages.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Newtonsoft.Json.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Antlr3.Runtime.pdb
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.AI.Web.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\obj\Debug\TaskSolution.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\obj\Debug\TaskSolution.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\obj\Debug\TaskSolution.csproj.CopyComplete
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\obj\Debug\TaskSolution.dll
+C:\Users\Usuário\Desktop\Nova pasta (7)\TaskSolution\TaskSolution\obj\Debug\TaskSolution.pdb
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\ApplicationInsights.config
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\TaskSolution.dll.config
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\TaskSolution.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\TaskSolution.pdb
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csc.exe
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csc.exe.config
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csc.rsp
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csi.exe
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csi.exe.config
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csi.rsp
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.AppContext.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Console.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Compression.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Claims.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.ValueTuple.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.exe
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.exe.config
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.rsp
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Antlr3.Runtime.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\EntityFramework.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\EntityFramework.SqlServer.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Google.Protobuf.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Web.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Data.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Data.EntityFramework.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Web.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Newtonsoft.Json.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Helpers.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Mvc.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Optimization.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Razor.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Razor.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\WebGrease.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\EntityFramework.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\EntityFramework.SqlServer.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Data.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Data.EntityFramework.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Web.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Helpers.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Mvc.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Optimization.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Razor.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Razor.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Newtonsoft.Json.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Antlr3.Runtime.pdb
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Web.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csproj.CopyComplete
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.dll
+C:\Users\lucas.kaibara\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.pdb
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\ApplicationInsights.config
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\TaskSolution.dll.config
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\TaskSolution.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\TaskSolution.pdb
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csc.exe
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csc.exe.config
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csc.rsp
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csi.exe
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csi.exe.config
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\csi.rsp
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.AppContext.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Console.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.exe
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.exe.config
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.rsp
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Antlr3.Runtime.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\EntityFramework.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Google.Protobuf.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Web.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Data.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Data.EntityFramework.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Web.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Newtonsoft.Json.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Helpers.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Mvc.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Optimization.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Razor.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\WebGrease.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\EntityFramework.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Data.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Data.EntityFramework.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\MySql.Web.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Helpers.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Mvc.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Optimization.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.Razor.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Newtonsoft.Json.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Antlr3.Runtime.pdb
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Web.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csproj.CopyComplete
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.dll
+C:\Users\Usuário\Desktop\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.pdb
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\ApplicationInsights.config
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\TaskSolution.dll.config
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\TaskSolution.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\TaskSolution.pdb
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\csc.exe
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\csc.exe.config
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\csc.rsp
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\csi.exe
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\csi.exe.config
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\csi.rsp
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.AppContext.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Console.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Compression.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Claims.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.ValueTuple.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.exe
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.exe.config
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.rsp
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Antlr3.Runtime.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\EntityFramework.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\EntityFramework.SqlServer.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Google.Protobuf.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Web.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySql.Data.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySql.Data.EntityFramework.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySql.Web.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Newtonsoft.Json.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.Helpers.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.Mvc.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.Optimization.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.Razor.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Razor.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\WebGrease.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\EntityFramework.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\EntityFramework.SqlServer.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySql.Data.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySql.Data.EntityFramework.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\MySql.Web.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.Helpers.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.Mvc.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.Optimization.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.Razor.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Razor.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Newtonsoft.Json.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Antlr3.Runtime.pdb
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Web.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csprojAssemblyReference.cache
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csproj.CoreCompileInputs.cache
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csproj.CopyComplete
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.dll
+C:\Users\lucas.kaibara\Desktop\Nova pasta\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.pdb
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\ApplicationInsights.config
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\TaskSolution.dll.config
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\TaskSolution.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\TaskSolution.pdb
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\csc.exe
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\csc.exe.config
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\csc.rsp
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\csi.exe
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\csi.exe.config
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\csi.rsp
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.AppContext.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Console.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.exe
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.exe.config
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\vbc.rsp
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Antlr3.Runtime.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\EntityFramework.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Google.Protobuf.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Web.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySql.Data.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySql.Data.EntityFramework.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySql.Web.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Newtonsoft.Json.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.Helpers.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.Mvc.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.Optimization.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.Razor.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\WebGrease.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\EntityFramework.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySql.Data.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySql.Data.EntityFramework.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\MySql.Web.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.Helpers.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.Mvc.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.Optimization.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.Razor.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Newtonsoft.Json.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Antlr3.Runtime.pdb
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.AI.Web.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.csproj.CopyComplete
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.dll
+C:\Users\Usuário\Desktop\TaskSolution\Task Solution [Final]\TaskSolution\obj\Debug\TaskSolution.pdb

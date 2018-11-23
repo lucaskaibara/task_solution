@@ -1,0 +1,56 @@
+﻿@model IEnumerable<TaskSolution.Models.categoria>
+
+@{
+    ViewBag.Title = "Gerenciar Categorias";
+}
+
+@section cards{
+    <div class="header pb-8 pt-5 pt-lg-8 d-flex align-items-center" style="min-height: 200px; background-image: url(/Images/bg01.jpg); background-size: cover; background-position: center top;">
+        <!-- Mask -->
+        <span class="mask bg-gradient-primary opacity-8"></span>
+        <!-- Header container -->
+    </div>
+}
+
+<div class="col-xl order-xl-1">
+    <div class="card bg-secondary shadow">
+        <div class="card-header bg-white border-0">
+            <div class="row align-items-center">
+                <div class="col-8">
+                    <h3 class="mb-0 text-uppercase">
+                        Gerenciar Categorias
+                    </h3>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <a href="/Categoria/Cadastrar" class="btn btn-sm btn-outline-default"><i class="fa fa-plus"></i> Cadastrar Categoria</a><br /><br />
+
+            <table class="table">
+                <tr>
+                    <th>Nome</th>
+                    <th>Ações</th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.nome)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Editar", "Editar", new { id = item.id }, new { @class = "btn btn-sm btn-outline-default" }) |
+
+                            @using (Html.BeginForm("Excluir", "Categoria", new { Id = item.id }, FormMethod.Post))
+                            {
+                                @Html.AntiForgeryToken()
+                                <button type="submit" class="btn btn-sm btn-outline-default">Excluir</button>
+                            }
+                        </td>
+                    </tr>
+                }
+
+            </table>
+        </div>
+    </div>
+</div>
